@@ -18,9 +18,9 @@
 
 - 🔭 I’m currently work as a software engineer at [Lusha.com](https://www.lusha.com/) Data Group
 
-- 🌱 I’m currently learning about **Deep Learning & NLP and the Fastify framework**
+- 🌱 I’m currently learning about **Deep Learning & NLP**
 
-- 💬 Ask me about **Golang, Node.js, React, Vue, Elastic & K8S**
+- 💬 Ask me about **Golang, Python, Spark, Airflow, Elastic, K8S, Node.js, React & Vue**
 
 - 📫 Reach me at **zamir98@gmail.com**
 
