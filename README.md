@@ -15,7 +15,7 @@
 
 
 
-- 🔭 I’m currently work as a software engineer at [Lusha.com](https://www.lusha.com/) Data Group
+- 🔭 I’m currently working as a Senior Data Tech Lead for [Lusha.com](https://www.lusha.com/)
 
 - 🌱 I’m currently learning about **Deep Learning & NLP**
 
