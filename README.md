@@ -8,11 +8,11 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omerzamir&column=7" alt="omerzamir" /></a> 
+  <br/>
   <a href="https://www.credly.com/badges/4379b473-8c43-42ae-8818-bff87ab89550/public_url"> 
-    <img src="https://images.credly.com/size/110x110/images/09c5b663-496c-46a0-ad2c-76ac60142319/badge_dag_authoring__1_.png"> </img>
+    <img src="https://images.credly.com/size/110x110/images/ed8e9dd4-2125-4e0b-9db1-57cf67de09d9/image.png"> </img>
   </a>
 </p>
-
 
 
 - 🔭 I’m currently working as a Tech Lead for [Lusha.com](https://www.lusha.com/)
