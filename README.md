@@ -15,7 +15,7 @@
 </p>
 
 
-- 🔭 I’m currently working as a Tech Lead for [Lusha.com](https://www.lusha.com/)
+- 🔭 I’m currently working as a Software Architect for [Lusha.com](https://www.lusha.com/)
 
 - 🌱 I’m currently learning about **Deep Learning & NLP**
 
