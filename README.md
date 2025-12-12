@@ -15,9 +15,7 @@
 </p>
 
 
-- 🔭 I’m currently working as a Software Architect for [Lusha.com](https://www.lusha.com/)
-
-- 🌱 I’m currently learning about **Deep Learning & NLP**
+- 🔭 I’m currently working as a Software Engineer for [Orion Security](https://www.orionsec.io/)
 
 - 💬 Ask me about **Golang, Python, Spark, Airflow, Elastic, K8S, Node.js, React & Vue**
 
@@ -35,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omerzamir&show_icons=true&locale=en" alt="omerzamir" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omerzamir&" alt="omerzamir" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=omerzamir" alt="omerzamir" /></p>
