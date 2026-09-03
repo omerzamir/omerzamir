@@ -14,9 +14,6 @@
   </a>
 </p>
 
-
-- 🔭 I’m currently working as a Software Engineer for [Orion Security](https://www.orionsec.io/)
-
 - 💬 Ask me about **Golang, Python, Spark, Airflow, Elastic, K8S, Node.js, React, Vue**
 
 - 📫 Reach me at **zamir98@gmail.com**
